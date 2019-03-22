@@ -1,0 +1,44 @@
+img {
+    width: 300px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    border:dashed purple;
+    height:350px;
+    background-color:pink;
+    }
+    h1{ text-align:center;
+    font-size:50px;
+    color:purple;
+    font-family: 'Crimson Text', serif;
+    
+     }
+h2{ text-align:center;
+    color:purple;
+    
+    }
+body {
+    background-color:pink;
+    font-family: 'Open Sans', sans-serif;
+    }
+h3{
+    color:purple;
+    font-family: 'Crimson Text', serif;
+    }
+ li{
+     color:purple;
+     text-align:center;
+     }
+     p{
+         color:purple;}
+         div{ 
+             text-align :center;
+             font-size:30px;
+             }
+             ol{
+                 
+                 display:inline-block;}
+                 ul{
+                     
+                      display:inline-block;}
+                     
